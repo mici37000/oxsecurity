@@ -1,6 +1,6 @@
 ## Description
 
-OX Security application. This application has responsive design and can be viewed on computers and mobile devices.
+OX Security application. This application has responsive design and can be viewed on computers, tablets & mobile devices.
 
 ## Installation
 

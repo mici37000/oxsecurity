@@ -44,7 +44,7 @@ export default function CreateEmployee() {
   }
 
   return (
-    <form className="container mx-auto my-5 px-3 md:px-36" action={onCreate}>
+    <form className="container mx-auto my-5 px-3 xl:px-36" action={onCreate}>
       <div>
         <label htmlFor="firstNameTB" className="block mb-2 text-gray-900">
           First name

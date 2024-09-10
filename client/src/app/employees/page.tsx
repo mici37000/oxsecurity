@@ -82,7 +82,7 @@ export default function Employees() {
   }
 
   return (
-    <div className="container mx-auto my-5 px-3 md:px-36">
+    <div className="container mx-auto my-5 px-3 xl:px-36">
       <Link href="/employees/create">
         <button
           type="button"
@@ -91,7 +91,7 @@ export default function Employees() {
           Create +
         </button>
       </Link>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 my-10">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 my-10">
         {data?.getAllEmployees.map((employee: Employee) => (
           <EmployeeCard key={employee.id} employee={employee} onDeleteEmployee={onDeleteEmployee} onUpdateEmployee={onUpdateEmployee} />
         ))}
