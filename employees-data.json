@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "66e000f6becdce1b03b156ad"
+  },
+  "firstName": "Sibyl",
+  "lastName": "Portchmouth",
+  "status": "Working",
+  "image": "https://images.pexels.com/photos/1493111/pexels-photo-1493111.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66e0010abecdce1b03b156b0"
+  },
+  "firstName": "Shaine",
+  "lastName": "Clilverd",
+  "status": "LunchTime",
+  "image": "https://images.pexels.com/photos/3756912/pexels-photo-3756912.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66e0011dbecdce1b03b156b3"
+  },
+  "firstName": "Brandy",
+  "lastName": "Holttom",
+  "status": "BusinessTrip",
+  "image": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66e00138becdce1b03b156b6"
+  },
+  "firstName": "Rodie",
+  "lastName": "Moyse",
+  "status": "OnVacation",
+  "image": "https://images.pexels.com/photos/3211476/pexels-photo-3211476.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66e0015bbecdce1b03b156bb"
+  },
+  "firstName": "Leroi",
+  "lastName": "Pavic",
+  "status": "BusinessTrip",
+  "image": "https://images.pexels.com/photos/428328/pexels-photo-428328.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66e00175becdce1b03b156be"
+  },
+  "firstName": "Dana",
+  "lastName": "McSkeagan",
+  "status": "Working",
+  "image": "https://images.pexels.com/photos/27352106/pexels-photo-27352106/free-photo-of-woman-blue-cloudy-day.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66e0018ebecdce1b03b156c1"
+  },
+  "firstName": "Tamiko",
+  "lastName": "Gever",
+  "status": "OnVacation",
+  "image": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66e001a8becdce1b03b156c4"
+  },
+  "firstName": "Lonee",
+  "lastName": "Cosslett",
+  "status": "OnVacation",
+  "image": "https://images.pexels.com/photos/1812634/pexels-photo-1812634.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66e001c6becdce1b03b156c7"
+  },
+  "firstName": "Latashia",
+  "lastName": "Gumery",
+  "status": "OnVacation",
+  "image": "https://images.pexels.com/photos/698532/pexels-photo-698532.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66e001e8becdce1b03b156ca"
+  },
+  "firstName": "Juliane",
+  "lastName": "Chaloner",
+  "status": "LunchTime",
+  "image": "https://images.pexels.com/photos/27603433/pexels-photo-27603433/free-photo-of-blonde-beauty-s-eye-catching-glasses.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66e0020abecdce1b03b156cd"
+  },
+  "firstName": "Marcelline",
+  "lastName": "Carrabott",
+  "status": "BusinessTrip",
+  "image": "https://images.pexels.com/photos/3579181/pexels-photo-3579181.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "66e00221becdce1b03b156d0"
+  },
+  "firstName": "Tabbitha",
+  "lastName": "Copyn",
+  "status": "Working",
+  "image": "https://images.pexels.com/photos/3756985/pexels-photo-3756985.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+}]
