@@ -21,6 +21,7 @@ Clone the repository: `git clone https://github.com/mici37000/oxsecurity.git`.
 1. Set terminal to oxsecurity server directory: `cd oxsecurity/server`.
 2. Edit `.env.dev` file upon your DB host and DB name. In case you want to run the system in production mode, you can add `.env.prod` file.
 3. Start local server: `npm run start:dev`.
+4. Optional - Import example data into your MongoDB `employees` collection from `epmployees-data.json` file.
 
 ### Front end
 1. Set terminal to oxsecurity client directory: `cd oxsecurity/client`.
