@@ -1,0 +1,32 @@
+.card {
+  background-color: var(--white-color);
+}
+
+.circle {
+  border-radius: 50%;
+  height: 10px;
+  width: 10px;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.thumb {
+  width: 128px;
+  height: 128px;
+}
+
+.Working {
+  border-color: var(--green-color);
+}
+
+.OnVacation {
+  border-color: var(--orange-color);
+}
+
+.LunchTime {
+  border-color: var(--yellow-color);
+}
+
+.BusinessTrip {
+  border-color: var(--purple-color);
+}

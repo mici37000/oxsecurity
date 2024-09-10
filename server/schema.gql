@@ -1,0 +1,31 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+"""employees"""
+type Employee {
+  firstName: String!
+  id: ID!
+  image: String!
+  lastName: String!
+  status: String!
+}
+
+"""employees"""
+input EmployeeDto {
+  firstName: String!
+  image: String!
+  lastName: String!
+  status: String!
+}
+
+type Mutation {
+  createEmployee(employeeDto: EmployeeDto!): Employee!
+  deleteEmployee(id: String!): Employee!
+  updateEmployee(employeeDto: EmployeeDto!, id: String!): Employee!
+}
+
+type Query {
+  getAllEmployees: [Employee!]!
+  getEmployeeById(id: String!): Employee!
+}

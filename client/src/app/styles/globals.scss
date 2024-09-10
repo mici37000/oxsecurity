@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-color: #F5F6F8;
+  --black-color: #171717;
+  --white-color: #FFF;
+  --green-color: #2ED47A;
+  --orange-color: #F7685B;
+  --purple-color: #FBE983;
+  --yellow-color: #A92ED4;
+}
+
+body {
+  background: var(--background-color);
+  font-family: Arial, Helvetica, sans-serif;
+}
